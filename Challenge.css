@@ -1,0 +1,149 @@
+/*Base*/
+
+.divider {
+  height: 10px;
+  border: 0px;
+  background-image: url("http://mt-st.rfclipart.com/image/big/d0-c2-d8/diagonal-lines-seamless-pattern-Download-Royalty-free-Vector-File-EPS-66744.jpg");
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.usual {
+	margin-top: 25px;
+	margin-left: 180px;
+	margin-right: 180px;
+	margin-bottom: 25px;
+    background-color: #FFFFFF;
+}
+
+.recipe {
+	width: 100%;
+	height: 300px;
+	background: url("http://i.imgur.com/uM6UwWx.png");
+	margin-top: 25px;
+	margin-bottom: 35px;
+	-webkit-column-count: 2;
+	column-count: 2;
+	column-gap: 80px;
+}
+
+.vanessa {
+	float: left;
+}
+
+.author.bio {
+	font-size: 18px;
+}
+
+.hr {
+	height: 2px;
+	border: 0;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.hr img {
+	position: relative;
+	top: -16px;
+}
+
+.example {
+	width: 100%;
+	height: 800px;
+}
+
+.content {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-indent: 3em;
+    color: #999999;
+    font-size: 22px;
+}
+
+.callsign {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.forknife {
+	float: left;
+	height: 75px;
+	width: 75px;
+}
+
+.title {
+	font-size: 50px;
+	font-family: prototype;
+}
+
+button {
+	float: right;
+	background-color: red;
+	height: 40px;
+	color: white;
+}
+
+
+
+/*Social Media Navbar*/
+
+.social {
+	display: inline-block;
+	height: 25px;
+	width: 350px;
+	position: absolute;
+	top: 75px;
+	right: 60px;
+	padding-bottom: 75px;
+}
+
+.social ul {
+	float: right;
+	list-style: none;
+	height: 25px;
+	width: 350px;
+}
+
+.social ul li {
+	display: inline-block;
+	float: left;
+	margin-left: 2px;
+	margin-right: 2px;
+	height: 25px;
+	width: 25px;
+}
+
+/*Social Media Icons*/
+
+.facebook {
+	background: url("http://i.imgur.com/1TGyAaA.png");
+}
+
+.twitter {
+	background: url("http://i.imgur.com/CT7rrnx.png")
+}
+
+.google {
+	background: url("http://i.imgur.com/XGWaBWx.png");
+}
+
+.instagram {
+	background: url("http://i.imgur.com/KwUdtk0.png");
+}
+
+.flic {
+	background: url("http://i.imgur.com/GezwYDI.png");
+}
+
+.pinterest {
+	background: url("http://i.imgur.com/iOUbWq3.png");
+}
+
+.rss {
+	background: url("http://i.imgur.com/zD2uOW9.png");
+}
+
+.mail {
+	background: url("http://i.imgur.com/gZPWCFy.png");
+}
